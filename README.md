@@ -42,7 +42,7 @@ Works in **local mode** (run directly on a Pi) or **remote mode** (install over 
 
 ### Local install (run on Raspberry Pi):
 ```bash
-curl -sSL https://raw.githubusercontent.com/<yourname>/pigpio-installer/main/install_pigpio.sh | bash
+curl  git@github.com:markh2024/Remote_GPIO_RaspberryPI4.git
 ``` 
 
 ### What this script does and steps this initiates 

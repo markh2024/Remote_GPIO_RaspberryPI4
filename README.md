@@ -81,7 +81,16 @@ curl -sSL https://raw.githubusercontent.com/<yourname>/pigpio-installer/main/ins
 
 ![alt text](howtoConnect.png)
 
+### How to compile the main.cpp 
+-  Check first that your main.cpp  file  has the correct IP Address for your remote RPI
+-  Issue command mkir on your local machine where main.cpp resides ensuring that CMakeLists.txt is in the root of that folder
+-  cd into the build directory
+-  issue command cmake ..
+-  next issue make  and this will build  your exe to test 
 
+
+ ## 📺 Video Guide
+Watch the full installation tutorial here: [YouTube Link](https://www.youtube.com/watch?v=wf1SdgoZEJY)
 
 
 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/remote_gpio.dir/main.cpp.o -o remote_gpio  -Wl,-rpath,/usr/local/lib /usr/local/lib/libpigpiod_if2.so 

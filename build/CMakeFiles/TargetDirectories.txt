@@ -1,0 +1,3 @@
+/home/mark/cprograms/PGIORPI/build/CMakeFiles/remote_gpio.dir
+/home/mark/cprograms/PGIORPI/build/CMakeFiles/edit_cache.dir
+/home/mark/cprograms/PGIORPI/build/CMakeFiles/rebuild_cache.dir
